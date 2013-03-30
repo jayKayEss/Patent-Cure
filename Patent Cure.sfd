@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1364069233
-ModificationTime: 1364534018
+ModificationTime: 1364534386
 PfmFamily: 17
 TTFWeight: 800
 TTFWidth: 5
@@ -88,6 +88,7 @@ SplineSet
  294 480 l 1
  293.012695312 600 l 1x74
 EndSplineSet
+Validated: 524325
 Kerns2: 4 -120 "kern-1" 
 EndChar
 
@@ -128,6 +129,7 @@ SplineSet
  24 479.857421875 l 1
  24 599.822265625 l 1x70
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: S
@@ -172,6 +174,7 @@ SplineSet
  24 479.857421875 l 2
  24 568.333007812 53.9912109375 599.999023438 143.96484375 599.999023438 c 2x6d
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: W
@@ -206,6 +209,7 @@ SplineSet
  142 480 l 1
  22 480 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 111 -100 "NA"  0 -220 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -242,6 +246,7 @@ SplineSet
  501.791992188 300 l 1
  443 445.515625 l 1
 EndSplineSet
+Validated: 524289
 Kerns2: 20 -180 "kern-1"  21 -120 "kern-1"  22 -240 "kern-1"  3 -240 "kern-1"  24 -160 "kern-1" 
 EndChar
 
@@ -283,6 +288,7 @@ SplineSet
  504 240 504 240 444 240 c 2
  324 240 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: C
@@ -319,6 +325,7 @@ SplineSet
  54 0 24 30.0009765625 24 120.000976562 c 0
  24 210.000976562 24 389.999023438 24 480.001953125 c 0x8a
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: D
@@ -350,6 +357,7 @@ SplineSet
  532.416015625 480 534 480 472.870117188 478.71875 c 1
  324 480 l 1
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: E
@@ -392,6 +400,7 @@ SplineSet
  24 480 l 1
  24 600 l 1x6d
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: F
@@ -428,6 +437,7 @@ SplineSet
  24 480 l 1
  24 600 l 1xdc
 EndSplineSet
+Validated: 524289
 Kerns2: 0 -220 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -468,6 +478,7 @@ SplineSet
  53.9150390625 -0.0595703125 23.9990234375 29.9169921875 24 119.665039062 c 2
  24.0009765625 478.658203125 l 2xda
 EndSplineSet
+Validated: 524325
 EndChar
 
 StartChar: H
@@ -511,6 +522,7 @@ SplineSet
  474 600 l 1
  834 600 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: I
@@ -537,6 +549,7 @@ SplineSet
  24 600 l 1
  443.999023438 600 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: L
@@ -570,6 +583,7 @@ SplineSet
  442.599609375 599.821289062 l 1
  442.599609375 599.82421875 l 1x74
 EndSplineSet
+Validated: 524289
 Kerns2: 24 -160 "kern-1"  3 -230 "kern-1"  22 -240 "kern-1"  21 -120 "kern-1"  20 -170 "kern-1" 
 EndChar
 
@@ -610,6 +624,7 @@ SplineSet
  24 479.999023438 l 1
  24 600 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: N
@@ -644,6 +659,7 @@ SplineSet
  24 480 l 1
  24 600 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 4 -120 "kern-1"  4 -120 "kern-1"  4 -120 "NA" 
 EndChar
 
@@ -676,6 +692,7 @@ SplineSet
  442.125 480.001953125 444 480 384 480 c 2
  264 480 l 2
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: P
@@ -710,6 +727,7 @@ SplineSet
  503.434570312 479.787109375 503.434570312 479.787109375 443.504882812 479.787109375 c 2
  324 480 l 1
 EndSplineSet
+Validated: 524321
 Kerns2: 0 -160 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -752,6 +770,7 @@ SplineSet
  444.330078125 480 444 480 384 480 c 2
  264 480 l 2
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: R
@@ -795,6 +814,7 @@ SplineSet
  504 480 504 480 444 480 c 2
  324 480 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 24 -60 "kern-1"  3 -60 "kern-1"  21 -70 "kern-1" 
 EndChar
 
@@ -834,6 +854,7 @@ SplineSet
  623 600 l 1
  743 600 l 1xcd
 EndSplineSet
+Validated: 524289
 Kerns2: 0 -150 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -869,6 +890,7 @@ SplineSet
  22 480 l 1
  22 600 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 0 -120 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -898,6 +920,7 @@ SplineSet
  502 600 l 1
  862 600 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 0 -220 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -932,6 +955,7 @@ SplineSet
  24 480 l 1
  24 600 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: Y
@@ -969,6 +993,7 @@ SplineSet
  22 480 l 1
  22 600 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 0 -120 "kern-1"  4 -120 "kern-1" 
 EndChar
 
@@ -1006,6 +1031,7 @@ SplineSet
  25 390 l 5x29
  25.0009765625 600 l 5x24
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: colon
@@ -1632,6 +1658,7 @@ SplineSet
  322 180 322 180 292 180 c 2
  232 180 l 2
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: b
@@ -1642,6 +1669,20 @@ Flags: W
 HStem: 0 120<337.685 440.961> 360 120<336.688 440.961> 540 120<21 141>
 VStem: 141 180<16.6855 60 120 360 420 540> 441 180<120.039 359.961>
 LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 21 660 m 1
@@ -1703,6 +1744,7 @@ SplineSet
  143 0 l 2
  53 0 23 30 23 120 c 2x4a
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: d
@@ -1740,6 +1782,7 @@ SplineSet
  323 120 l 1
  323 360 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 105 20 "NA" 
 EndChar
 
@@ -1780,6 +1823,7 @@ SplineSet
  233 360 l 2
  203 360 203 360 203 330 c 2
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: f
@@ -1819,6 +1863,7 @@ SplineSet
  83 540 l 2
  83 630 113 660 203 660 c 2xd6
 EndSplineSet
+Validated: 1
 Kerns2: 117 -180 "NA" 
 EndChar
 
@@ -1863,6 +1908,7 @@ SplineSet
  323 360 l 1x3a
  233 360 l 2
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: h
@@ -1902,6 +1948,7 @@ SplineSet
  22 540 l 1
  22 660 l 1
 EndSplineSet
+Validated: 524289
 Kerns2: 117 -60 "NA" 
 EndChar
 
@@ -1939,7 +1986,8 @@ SplineSet
  22 360 l 1
  22 480 l 1
 EndSplineSet
-Kerns2: 98 -80 "NA"  106 -180 "NA" 
+Validated: 524289
+Kerns2: 116 -40 "NA"  98 -80 "NA"  106 -180 "NA" 
 EndChar
 
 StartChar: j
@@ -1973,6 +2021,7 @@ SplineSet
  201 360 l 1
  201 480 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: k
@@ -2010,6 +2059,7 @@ SplineSet
  22 540 l 1
  22 660 l 1x78
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l
@@ -2034,7 +2084,8 @@ SplineSet
  22 540 l 1
  22 660 l 1
 EndSplineSet
-Kerns2: 118 -80 "NA" 
+Validated: 1
+Kerns2: 117 -70 "NA"  118 -80 "NA" 
 EndChar
 
 StartChar: m
@@ -2084,6 +2135,8 @@ SplineSet
  24 359.998046875 l 1
  24 479.998046875 l 1
 EndSplineSet
+Validated: 524289
+Kerns2: 98 -110 "NA" 
 EndChar
 
 StartChar: n
@@ -2121,6 +2174,7 @@ SplineSet
  24 360 l 1
  24 480 l 1
 EndSplineSet
+Validated: 1
 Kerns2: 116 -60 "NA" 
 EndChar
 
@@ -2153,6 +2207,7 @@ SplineSet
  351.125976562 360.000976562 352.998046875 359.999023438 292.999023438 359.999023438 c 2
  264.499023438 360.000976562 l 2
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: p
@@ -2192,6 +2247,7 @@ SplineSet
  382 360 382 360 352 360 c 2
  262 360 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q
@@ -2227,6 +2283,7 @@ SplineSet
  323 120 l 1
  323 360 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
@@ -2262,6 +2319,7 @@ SplineSet
  24 360 l 1
  24 480 l 1xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s
@@ -2311,6 +2369,7 @@ SplineSet
  23 359.4453125 l 2
  23 448.225585938 53.09375 480 143.376953125 480 c 2xad
 EndSplineSet
+Validated: 524321
 EndChar
 
 StartChar: t
@@ -2348,6 +2407,7 @@ SplineSet
  142 480 l 1
  142 660 l 1x7c
 EndSplineSet
+Validated: 1
 Kerns2: 117 -60 "NA" 
 EndChar
 
@@ -2386,6 +2446,7 @@ SplineSet
  622 120 l 1
  622 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v
@@ -2414,6 +2475,7 @@ SplineSet
  382 480 l 1
  682 480 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w
@@ -2448,6 +2510,7 @@ SplineSet
  82 360 l 1
  22 360 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: x
@@ -2481,6 +2544,7 @@ SplineSet
  24 360 l 1
  24 480 l 1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: y
@@ -2524,6 +2588,7 @@ SplineSet
  232 -60 l 1xb6
  232 -90 232 -90 262 -90 c 2x7a
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z
@@ -2559,6 +2624,7 @@ SplineSet
  24 300 l 1
  24.0009765625 480 l 1x2c
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: braceleft
