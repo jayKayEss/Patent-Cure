@@ -80,9 +80,9 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 0,40 480,0 c 60,0 90,30 90,90 L 570.3744,40 690,40 l -2.4e-4,240 -180.00024,0 0,-29.61126 c 0,-60.38874 0,-60.38874 -60,-60.38874 L 300,190 l 0,120 120,0 0,180 -120,0 0,120 120,0 2.4e-4,150 -420,0 L 0,610 l 120,0 0,-420 -120,0 z"
+       d="m 0,40 480,0 c 60,0 90,30 90,90 L 570.3744,40 690,40 l 0,210 -180.00024,0.38874 C 509.99976,190 509.99952,190 449.99952,190 L 300,190 l 0,120 120,0 0,180 -120,0 0,120 120,0 2.4e-4,150 -420,0 L 0,610 l 120,0 0,-420 -120,0 z"
        id="path3070-1-0"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccc" />
   </g>
 </svg>
