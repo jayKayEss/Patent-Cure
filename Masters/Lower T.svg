@@ -31,7 +31,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="0.4953125"
      inkscape:cx="558.93502"
-     inkscape:cy="451.31167"
+     inkscape:cy="405.15836"
      inkscape:window-x="69"
      inkscape:window-y="0"
      inkscape:current-layer="layer1"
@@ -80,7 +80,7 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 60,100 0,180 -60,0 0,120 60,0 0,120 0,120 c 0,90 30,120 120,120 l 120,0 c 30,0 60,-30 60,-60 l 0,60 90,0 0,-180 -150,0 0,30 c 0,30 0,30 -30,30 l -30,0 c -30,0 -30,0 -30,-30 l 0,-210 120,0 0,-120 -120,0 0,-180 z"
+       d="m 60,100 0,180 -60,0 0,120 60,0 0,120 0,120 c 0,90 30,120 120,120 l 150,0 c 30,0 60,-30 60,-60 l 0,60 120,0 0,-180 -180,0 0,30 c 0,30 0,30 -30,30 l -30,0 c -30,0 -30,0 -30,-30 l 0,-210 120,0 0,-120 -120,0 0,-180 z"
        id="path3854"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccccc" />

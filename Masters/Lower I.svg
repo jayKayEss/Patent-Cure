@@ -85,19 +85,14 @@
      style="display:inline">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 0,280 0,120 60,0 0,240 -60,0 0,120 270,0 0,-120 -60,0 0,-360 z"
+       d="m 0,280 0,120 60,0 0,240 -60,0 0,120 300,0 0,-120 -60,0 0,-360 z"
        id="path3564"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
     <path
-       transform="matrix(0.83333333,0,0,0.83333333,-140,31.666667)"
-       sodipodi:type="arc"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60,40 180,0 0,150 -180,0 z"
        id="path2990"
-       sodipodi:cx="330"
-       sodipodi:cy="100"
-       sodipodi:rx="90"
-       sodipodi:ry="90"
-       d="m 420,100 a 90,90 0 1 1 -180,0 90,90 0 1 1 180,0 z" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

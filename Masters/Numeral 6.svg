@@ -14,7 +14,7 @@
    id="svg3092"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Lower Q.svg">
+   sodipodi:docname="Numeral 5.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -29,13 +29,14 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46280139"
+     inkscape:zoom="0.6545"
      inkscape:cx="500"
-     inkscape:cy="443.06966"
-     inkscape:window-x="69"
+     inkscape:cy="591.83151"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer1"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
     <sodipodi:guide
        orientation="horizontal"
        position="0,240"
@@ -49,10 +50,6 @@
        snapvisiblegridlinesonly="true"
        spacingx="30px"
        spacingy="30px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,840"
-       id="guide3188" />
     <sodipodi:guide
        orientation="0,1"
        position="0,720"
@@ -70,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,9 +77,9 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 510,280 0,600 60,0 0,120 -240,0 0,-240 -210,0 C 30,760 0,730 0,640 L 0,400 C 0,310 30,280 120,280 l 150,0 c 30,0 60,30 60,60 l 0,-60 z m -180,120 -120,0 c -30,0 -30,0 -30,30 l 0,180 c 0,30 0,30 30,30 l 120,0 z"
-       id="path3799-1"
+       d="M 120.23462,40 C 30.312831,40 0,70 0.3389,159.89571 L 0,639.58291 C 0,730 30,760 119.89572,759.47862 l 300,0.41709 C 510,760 540,730 539.79145,640 L 540,430 C 540,340 510,310 420.23462,310.41709 L 180,310 179.9479,247.9278 c -0.049,-58.35253 0,-58.44918 59.94787,-58.44918 l 30.26068,0.78207 c 59.94782,0 59.94782,0 59.94782,59.94789 l 0,29.97391 L 510,280 l 0.23462,-239.40042 -119.89573,0 0,89.9218 c 0,-59.94788 -29.97393,-89.9218 -89.92179,-89.9218 z M 180,490 l 120,0 c 60,0 60.30184,2.3734 59.69111,58.27204 C 359.0167,610 360,610 300,610 l -60.20855,-0.41709 c -59.94787,0 -59.97394,0 -59.97394,-59.94789 z"
+       id="path7257"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccsccccccccccccccccc" />
   </g>
 </svg>

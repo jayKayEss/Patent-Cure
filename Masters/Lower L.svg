@@ -80,7 +80,7 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 0,40 0,120 60,0 0,480 -60,0 0,120 330,0 0,-120 -120,0 0,-600 z"
+       d="m 0,40 0,120 60,0 0,480 -60,0 0,120 360,0 0,-120 -120,0 0,-600 z"
        id="path3721"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />

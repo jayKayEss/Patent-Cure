@@ -14,7 +14,7 @@
    id="svg3092"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Lower Q.svg">
+   sodipodi:docname="Punc Left Paren.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -29,11 +29,11 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46280139"
-     inkscape:cx="500"
-     inkscape:cy="443.06966"
-     inkscape:window-x="69"
-     inkscape:window-y="0"
+     inkscape:zoom="0.558333"
+     inkscape:cx="306.44635"
+     inkscape:cy="589.95351"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="0">
     <sodipodi:guide
@@ -70,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,10 +79,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 510,280 0,600 60,0 0,120 -240,0 0,-240 -210,0 C 30,760 0,730 0,640 L 0,400 C 0,310 30,280 120,280 l 150,0 c 30,0 60,30 60,60 l 0,-60 z m -180,120 -120,0 c -30,0 -30,0 -30,30 l 0,180 c 0,30 0,30 30,30 l 120,0 z"
-       id="path3799-1"
+       style="fill:#4d4d4d;stroke:none"
+       d="m 240,10 180,0 0,150 -120,0 c -90,0 -120,30 -120,120 l 0,240 c 0,90 30,120 120,120 l 120,0 0,150 -180,0 C 30,790 0,730 0,430 L 0,370 C 0,40 30,10 240,10 z"
+       id="path3007"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

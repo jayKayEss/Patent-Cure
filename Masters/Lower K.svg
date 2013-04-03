@@ -36,7 +36,7 @@
      inkscape:window-y="0"
      inkscape:current-layer="layer1"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="true">
     <sodipodi:guide
        orientation="horizontal"
        position="0,240"
@@ -101,7 +101,7 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 0,40 0,120 60,0 0,480 -60,0 0,120 270,0 0,-120 -60,0 76.95263,-74.31229 C 337.29861,648.69814 390,760 450,760 l 120,0 0,-120 -60,0 C 462.86991,640 426.06354,574.48407 375.71756,479.96842 L 458.52728,400 570,400 l 0,-120 -300,0 0,120 33.19773,0 L 210,490 210,40 z"
+       d="m -30,40 0,120 60,0 0,480 -60,0 0,120 300,0 0,-120 -60,0 76.95263,-74.31229 C 337.29861,648.69814 390,760 450,760 l 120,0 0,-120 -60,0 C 462.86991,640 426.06354,574.48407 375.71756,479.96842 L 458.52728,400 570,400 l 0,-120 -300,0 0,120 33.19773,0 L 210,490 210,40 z"
        id="path3712"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccscccccccccc" />

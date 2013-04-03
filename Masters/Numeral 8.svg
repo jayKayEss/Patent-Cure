@@ -14,7 +14,7 @@
    id="svg3092"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="Lower Q.svg">
+   sodipodi:docname="Numeral 7.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -29,13 +29,14 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46280139"
+     inkscape:zoom="0.6545"
      inkscape:cx="500"
-     inkscape:cy="443.06966"
-     inkscape:window-x="69"
+     inkscape:cy="591.83151"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer1"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
     <sodipodi:guide
        orientation="horizontal"
        position="0,240"
@@ -49,10 +50,6 @@
        snapvisiblegridlinesonly="true"
        spacingx="30px"
        spacingy="30px" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="0,840"
-       id="guide3188" />
     <sodipodi:guide
        orientation="0,1"
        position="0,720"
@@ -70,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,9 +77,9 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 510,280 0,600 60,0 0,120 -240,0 0,-240 -210,0 C 30,760 0,730 0,640 L 0,400 C 0,310 30,280 120,280 l 150,0 c 30,0 60,30 60,60 l 0,-60 z m -180,120 -120,0 c -30,0 -30,0 -30,30 l 0,180 c 0,30 0,30 30,30 l 120,0 z"
-       id="path3799-1"
+       d="M 120,40 C 30.040899,40 0.05453,69.98637 0.05453,159.94547 L 0.12268,340 c 0,29.98637 29.986369,59.97273 59.972737,59.97273 -29.986368,0 -59.972737,29.98637 -59.972737,59.97274 L 0,639.7819 c 0,89.9591 29.986369,119.94547 119.94547,119.94547 l 299.85005,0.0273 C 499.75915,763.75301 539.741,723.77099 539.741,639.80916 l 0.12268,-179.83643 c 0,-29.98637 -29.98637,-59.97274 -59.97274,-59.97274 29.98637,0 59.97274,-29.98636 59.97274,-59.97273 l -0.0682,-180.05453 c 0,-89.9591 -29.98637,-119.94547 -119.94548,-119.94547 z m 120.01363,150 59.9591,0.0273 c 59.97273,0 60,0.0273 60,60 C 359.97273,310 359.97273,310 300,310 l -59.9591,-0.0273 c -59.97274,0 -59.97274,0 -59.97274,-59.97274 0,-59.97274 -0.0273,-60 59.94547,-60 z m 0,300 59.9591,0.0273 c 59.97273,0 60,0.0273 60,60 C 359.97273,610 359.97273,610 300,610 l -59.9591,-0.0273 c -59.97274,0 -59.97274,0 -59.97274,-59.97274 0,-59.97274 -0.0273,-60 59.94547,-60 z"
+       id="path7264"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
   </g>
 </svg>

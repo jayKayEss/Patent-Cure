@@ -72,7 +72,7 @@
        id="guide2990" />
     <sodipodi:guide
        orientation="0.8660254,0.5"
-       position="210,600"
+       position="450,240"
        id="guide2992" />
     <sodipodi:guide
        orientation="-0.8660254,0.5"
@@ -80,7 +80,7 @@
        id="guide2994" />
     <sodipodi:guide
        orientation="-0.8660254,0.5"
-       position="570,600"
+       position="390,240"
        id="guide2996" />
   </sodipodi:namedview>
   <metadata
@@ -101,7 +101,7 @@
      id="layer1">
     <path
        style="fill:#4d4d4d;fill-rule:evenodd;stroke:none"
-       d="m 630,280 -270,0 0,120 60,0 L 315,581.86533 210,400 l 60,0 0,-120 -270,0 0,120 60,0 210,360 92.1539,0 L 570,400 l 60,0 z"
+       d="m 660,280 -300,0 0,120 60,0 L 331.07695,554.01924 242.1539,400 300,400 300,280 0,280 0,400 60,400 270,760 390,760 597.8461,400 660,400 z"
        id="path4336-3-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccc" />
